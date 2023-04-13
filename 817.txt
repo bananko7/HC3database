@@ -1,0 +1,2 @@
+How does the Fibonacci Sequence , a sequential series of numbers , get turned into a spiral pattern ? How do you look at a set of numbers and go , \" Oh yeah , there 's a definite spiral there . \" ? Explain like I'm five.<>URL_0 There is a graph on the RIGHT side at the TOP that sums it up pretty well ... graph paper is key<>,"index":null,"source":"reddit_eli5"}
+<>reddit_eli5
